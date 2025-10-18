@@ -9,3 +9,4 @@ module andgate(
     assign Y=A&B;
      assign Y=A^B;
 endmodule
+//testing comments
